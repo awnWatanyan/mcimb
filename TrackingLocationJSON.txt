@@ -1,0 +1,30 @@
+[
+    {
+        "staff_code": "19002",
+        "device_imei": "358205089203668",
+        "latitude": "13.7397622000",
+        "longitude": "100.6422716000",
+        "battery": "76",
+        "customer_id": "12345",
+        "account_id": "56789",
+        "distance": "3241",
+        "note": "test ทดสอบ เย้ๆ",
+        "status": "22",
+        "speed": "38",
+        "created_at": "2024-06-21 10:42:26"
+    },
+    {
+        "staff_code": "19002",
+        "device_imei": "358205089203668",
+        "latitude": "13.7657847349",
+        "longitude": "100.7074262481",
+        "battery": "76",
+        "customer_id": "12345",
+        "account_id": "56789",
+        "distance": "3241",
+        "note": "โลเคชั่น อีส คัมมิ่ง to town",
+        "status": "22",
+        "speed": "38",
+        "created_at": "2024-06-21 10:42:26"
+    }
+]
